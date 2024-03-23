@@ -1,1 +1,1 @@
-# linear-search-in-c-
+This is an implementation of linear search in c++.
